@@ -1,0 +1,1 @@
+for /R %i in (*) do @findstr /R "\<[A-Za-z0-9._-][A-Za-z0-9._-]*@[A-Za-z0-9.-][A-Za-z0-9.-]*\.[a-z][a-z]*\>" %i >nul && echo %~ni%~xi

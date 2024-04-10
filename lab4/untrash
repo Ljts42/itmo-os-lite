@@ -1,0 +1,31 @@
+#!bin/bash
+if [[ $# -ne 1 ]]; then
+    echo "Must be exactly 1 parameter"
+    exit 1
+elif [[ !(-e "$HOME/.trash.log") ]]; then
+    echo "$HOME/.trash.log does not exist"
+    exit 1
+fi
+cat "$HOME/.trash.log" | grep -E ".*$1 [0-9]*$" |
+while read line; do
+    fullname=$(echo $line | sed -E 's/ [0-9]*$//')
+    number=$(echo $line | grep -Eo '[0-9]*$')
+    if [[ !(-e "$HOME/.trash/$number") ]]; then
+        echo "Cannot find hardlink"
+        exit 1
+    fi
+    read -p "Restore $fullname? [y/N]: " input <&1
+    if [[ $input == 'y' || $input == 'Y' ]]; then
+        directory=$(dirname "$fullname")
+        filename=$(echo "$fullname" | rev | cut -d "/" -f 1 | rev)
+        if [[ !(-d "$directory") ]]; then
+            echo "$directory does not exist, restoring at $HOME"
+            directory="$HOME"
+        fi
+        while [[ -f "$directory/$filename" ]]; do
+            read -p "$filename already exists. Enter another name: " filename <&1
+        done
+        ln "$HOME/.trash/$number" "$directory/$filename"
+        rm "$HOME/.trash/$number"
+    fi
+done

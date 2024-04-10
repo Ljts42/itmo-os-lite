@@ -1,0 +1,17 @@
+#!bin/bash
+
+if [[ !(-d "$HOME/.trash") ]]; then
+    mkdir "$HOME/.trash"
+fi
+
+if [[ $# -ne 1 ]]; then
+    echo "Must be exactly 1 parameter"
+elif [[ !(-e "$PWD/$1") ]]; then
+    echo "No such file"
+else
+    let n=$(ls "$HOME/.trash" | grep -E '[0-9]*' | sort -n | tail -n 1)+1
+    ln "$PWD/$1" "$HOME/.trash/$n"
+    rm "$PWD/$1"
+    touch "$HOME/.trash.log"
+    echo "$PWD/$1 $n" >> "$HOME/.trash.log"
+fi

@@ -1,0 +1,8 @@
+
+Microsoft Windows [Version 6.1.7601]
+TotalPhysicalMemory  
+3757629440           
+Name  Size         
+C:    42947571712  
+FreePhysicalMemory  
+2963212             

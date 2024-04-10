@@ -1,0 +1,10 @@
+Comparing files services_1.txt and SERVICES_2.TXT
+***** services_1.txt
+   Distributed Link Tracking Client
+   DNS Client
+   Function Discovery Resource Publication
+***** SERVICES_2.TXT
+   Distributed Link Tracking Client
+   Function Discovery Resource Publication
+*****
+

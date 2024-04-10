@@ -1,0 +1,237 @@
+
+1394ohci     1394 OHCI Compliant Ho Kernel        11/20/2010 13:01:11   
+ACPI         Microsoft ACPI Driver  Kernel        11/20/2010 11:37:52   
+AcpiPmi      ACPI Power Meter Drive Kernel        11/20/2010 11:47:55   
+adp94xx      adp94xx                Kernel        12/6/2008 02:59:55    
+adpahci      adpahci                Kernel        5/1/2007 20:29:26     
+adpu320      adpu320                Kernel        2/28/2007 03:03:08    
+AFD          Ancillary Function Dri Kernel        4/4/2017 17:52:21     
+agp440       Intel AGP Bus Filter   Kernel        7/14/2009 02:25:36    
+aic78xx      aic78xx                Kernel        4/12/2006 03:20:11    
+aliide       aliide                 Kernel        7/14/2009 02:11:17    
+amdagp       AMD AGP Bus Filter Dri Kernel        7/14/2009 02:25:36    
+amdide       amdide                 Kernel        7/14/2009 02:11:19    
+AmdK8        AMD K8 Processor Drive Kernel        7/14/2009 02:11:03    
+AmdPPM       AMD Processor Driver   Kernel        7/14/2009 02:11:03    
+amdsata      amdsata                Kernel        3/19/2010 04:08:27    
+amdsbs       amdsbs                 Kernel        3/20/2009 21:35:26    
+amdxata      amdxata                Kernel        3/19/2010 19:19:01    
+AppID        AppID Driver           Kernel        9/13/2017 17:50:48    
+arc          arc                    Kernel        5/25/2007 00:31:06    
+arcsas       arcsas                 Kernel        1/14/2009 22:26:37    
+AsyncMac     RAS Asynchronous Media Kernel        7/14/2009 02:54:46    
+atapi        IDE Channel            Kernel        7/14/2009 02:11:15    
+b06bdrv      Broadcom NetXtreme II  Kernel        2/14/2009 01:10:59    
+b57nd60x     Broadcom NetXtreme Gig Kernel        4/26/2009 14:15:34    
+Beep         Beep                   Kernel        7/14/2009 02:45:00    
+blbdrive     blbdrive               Kernel        7/14/2009 02:23:04    
+bowser       Browser Support Driver File System   10/5/2016 17:50:28    
+BrFiltLo     Brother USB Mass-Stora Kernel        8/7/2006 00:33:45     
+BrFiltUp     Brother USB Mass-Stora Kernel        8/7/2006 00:33:45     
+Brserid      Brother MFC Serial Por Kernel        8/7/2006 00:33:50     
+BrSerWdm     Brother WDM Serial dri Kernel        8/7/2006 00:33:44     
+BrUsbMdm     Brother MFC USB Fax On Kernel        8/7/2006 00:33:43     
+BrUsbSer     Brother MFC USB Serial Kernel        8/9/2006 15:02:02     
+BTHMODEM     Bluetooth Serial Commu Kernel        7/14/2009 02:51:34    
+cdfs         CD/DVD File System Rea File System   7/14/2009 02:11:14    
+cdrom        CD-ROM Driver          Kernel        11/20/2010 11:38:09   
+circlass     Consumer IR Devices    Kernel        7/14/2009 02:51:17    
+CLFS         Common Log (CLFS)      Kernel        7/8/2017 17:48:34     
+CmBatt       Microsoft ACPI Control Kernel        7/14/2009 02:19:18    
+cmdide       cmdide                 Kernel        7/14/2009 02:11:18    
+CNG          CNG                    Kernel        11/19/2016 18:56:21   
+Compbatt     Microsoft Composite Ba Kernel        7/14/2009 02:19:18    
+CompositeBus Composite Bus Enumerat Kernel        11/20/2010 12:50:21   
+crcdisk      Crcdisk Filter Driver  Kernel        7/14/2009 02:46:05    
+CSC          Offline Files Driver   Kernel        11/20/2010 11:44:32   
+DfsC         DFS Namespace Client D File System   9/8/2016 17:49:56     
+discache     System Attribute Cache Kernel        7/14/2009 02:24:04    
+Disk         Disk Driver            Kernel        1/20/2016 05:05:19    
+DXGKrnl      LDDM Graphics Subsyste Kernel        5/16/2017 17:50:32    
+E1G60        Intel(R) PRO/1000 NDIS Kernel        5/29/2008 02:14:11    
+ebdrv        Broadcom NetXtreme II  Kernel        12/31/2008 19:06:23   
+elxstor      elxstor                Kernel        2/4/2009 01:09:33     
+ErrDev       Microsoft Hardware Err Kernel        7/14/2009 02:19:18    
+exfat        exFAT File System Driv File System   3/10/2017 18:51:40    
+fastfat      FAT12/16/32 File Syste File System   3/10/2017 18:51:40    
+fdc          Floppy Disk Controller Kernel        7/14/2009 02:45:45    
+FileInfo     File Information FS Mi File System   7/14/2009 02:21:51    
+Filetrace    Filetrace              File System   7/14/2009 02:15:29    
+flpydisk     Floppy Disk Driver     Kernel        7/14/2009 02:45:45    
+FltMgr       FltMgr                 File System   7/14/2009 02:11:13    
+FsDepends    File System Dependency File System   7/14/2009 02:15:38    
+fvevol       Bitlocker Drive Encryp Kernel        1/24/2013 05:41:37    
+gagp30kx     Microsoft Generic AGPv Kernel        7/14/2009 02:25:42    
+hcw85cir     Hauppauge Consumer Inf Kernel        5/11/2009 10:22:41    
+HDAudBus     Microsoft UAA Bus Driv Kernel        11/20/2010 12:59:28   
+HidBatt      HID UPS Battery Driver Kernel        7/14/2009 02:19:21    
+HidBth       Microsoft Bluetooth HI Kernel        7/14/2009 02:51:33    
+HidIr        Microsoft Infrared HID Kernel        7/14/2009 02:51:04    
+HidUsb       Microsoft HID Class Dr Kernel        11/20/2010 12:59:38   
+HpSAMD       HpSAMD                 Kernel        5/19/2009 02:42:46    
+HTTP         HTTP                   Kernel        6/15/2017 23:17:59    
+hwpolicy     Hardware Policy Driver Kernel        11/20/2010 11:37:35   
+i8042prt     i8042 Keyboard and PS/ Kernel        7/14/2009 02:11:23    
+iaStorV      Intel RAID Controller  Kernel        6/11/2010 03:45:02    
+iirsp        iirsp                  Kernel        12/14/2005 00:48:01   
+intelide     intelide               Kernel        7/14/2009 02:11:19    
+intelppm     Intel Processor Driver Kernel        7/14/2009 02:11:03    
+IpFilterDriv IP Traffic Filter Driv Kernel        7/14/2009 02:54:28    
+IPMIDRV      IPMIDRV                Kernel        11/20/2010 12:19:14   
+IPNAT        IP Network Address Tra Kernel        7/14/2009 02:54:28    
+IRENUM       IR Bus Enumerator      Kernel        7/14/2009 02:53:27    
+isapnp       isapnp                 Kernel        7/14/2009 02:19:29    
+iScsiPrt     iScsiPort Driver       Kernel        2/4/2014 04:17:29     
+kbdclass     Keyboard Class Driver  Kernel        7/14/2009 02:11:15    
+kbdhid       Keyboard HID Driver    Kernel        11/20/2010 12:50:10   
+KSecDD       KSecDD                 Kernel        9/13/2017 17:46:11    
+KSecPkg      KSecPkg                Kernel        9/13/2017 17:50:17    
+lltdio       Link-Layer Topology Di Kernel        7/14/2009 02:53:18    
+LSI_FC       LSI_FC                 Kernel        12/10/2008 01:28:47   
+LSI_SAS      LSI_SAS                Kernel        5/19/2009 03:19:55    
+LSI_SAS2     LSI_SAS2               Kernel        5/19/2009 03:31:29    
+LSI_SCSI     LSI_SCSI               Kernel        4/17/2009 01:14:47    
+luafv        UAC File Virtualizatio File System   10/12/2017 03:14:13   
+megasas      megasas                Kernel        5/19/2009 04:09:36    
+MegaSR       MegaSR                 Kernel        5/19/2009 04:25:17    
+Modem        Modem                  Kernel        7/14/2009 02:55:24    
+monitor      Microsoft Monitor Clas Kernel        7/14/2009 02:25:58    
+mouclass     Mouse Class Driver     Kernel        7/14/2009 02:11:15    
+mouhid       Mouse HID Driver       Kernel        7/14/2009 02:45:08    
+mountmgr     Mount Point Manager    Kernel        5/7/2017 17:47:31     
+mpio         Microsoft Multi-Path B Kernel        11/20/2010 12:51:28   
+mpsdrv       Windows Firewall Autho Kernel        7/14/2009 02:52:52    
+MRxDAV       WebDav Client Redirect File System   9/8/2016 17:49:58     
+mrxsmb       SMB MiniRedirector Wra File System   9/13/2017 17:46:43    
+mrxsmb10     SMB 1.x MiniRedirector File System   9/13/2017 17:46:48    
+mrxsmb20     SMB 2.0 MiniRedirector File System   9/13/2017 17:46:45    
+msahci       msahci                 Kernel        11/20/2010 12:50:48   
+msdsm        Microsoft Multi-Path D Kernel        11/20/2010 12:51:42   
+Msfs         Msfs                   File System   7/14/2009 02:11:26    
+mshidkmdf    Pass-through HID to KM Kernel        7/14/2009 02:51:07    
+msisadrv     msisadrv               Kernel        7/14/2009 02:11:09    
+MsRPC        MsRPC                  Kernel        7/14/2009 02:11:59    
+mssmbios     Microsoft System Manag Kernel        7/14/2009 02:19:25    
+MTConfig     Microsoft Input Config Kernel        7/14/2009 02:46:55    
+Mup          Mup                    File System   7/14/2009 02:14:14    
+NativeWifiP  NativeWiFi Filter      Kernel        9/13/2017 17:53:44    
+NDIS         NDIS System Driver     Kernel        10/13/2015 06:32:54   
+NdisCap      NDIS Capture LightWeig Kernel        7/14/2009 02:52:44    
+NdisTapi     Remote Access NDIS TAP Kernel        7/14/2009 02:54:24    
+Ndisuio      NDIS Usermode I/O Prot Kernel        11/20/2010 13:06:36   
+NdisWan      Remote Access NDIS WAN Kernel        11/20/2010 13:07:48   
+NDProxy      NDIS Proxy             Kernel        11/20/2010 13:07:39   
+NetBIOS      NetBIOS Interface      File System   7/14/2009 02:53:54    
+NetBT        NetBT                  Kernel        8/11/2017 08:55:54    
+nfrd960      nfrd960                Kernel        6/7/2006 00:12:15     
+Npfs         Npfs                   File System   7/14/2009 02:11:31    
+nsiproxy     NSI proxy service driv Kernel        8/11/2017 08:55:48    
+Ntfs         Ntfs                   File System   10/17/2017 01:22:21   
+Null         Null                   Kernel        7/14/2009 02:11:12    
+nvraid       nvraid                 Kernel        3/20/2010 00:00:09    
+nvstor       nvstor                 Kernel        3/19/2010 23:51:52    
+nv_agp       NVIDIA nForce AGP Bus  Kernel        7/14/2009 02:25:50    
+ohci1394     1394 OHCI Compliant Ho Kernel        7/14/2009 02:51:29    
+Parport      Parallel port driver   Kernel        7/14/2009 02:45:34    
+partmgr      Partition Manager      Kernel        3/17/2012 08:03:08    
+Parvdm       Parvdm                 Kernel        7/14/2009 02:45:29    
+pci          PCI Bus Driver         Kernel        11/20/2010 11:37:57   
+pciide       pciide                 Kernel        7/14/2009 02:11:19    
+pcmcia       pcmcia                 Kernel        7/14/2009 02:19:29    
+pcw          Performance Counters f Kernel        7/14/2009 02:11:10    
+PEAUTH       PEAUTH                 Kernel        6/14/2016 18:16:01    
+PptpMiniport WAN Miniport (PPTP)    Kernel        7/14/2009 02:54:47    
+Processor    Processor Driver       Kernel        7/14/2009 02:11:03    
+Psched       QoS Packet Scheduler   Kernel        7/14/2009 02:53:58    
+ql2300       ql2300                 Kernel        1/23/2009 02:28:52    
+ql40xx       ql40xx                 Kernel        5/19/2009 04:17:31    
+QWAVEdrv     QWAVE driver           Kernel        7/14/2009 02:54:12    
+RasAcd       Remote Access Auto Con Kernel        7/14/2009 02:54:40    
+RasAgileVpn  WAN Miniport (IKEv2)   Kernel        7/14/2009 02:55:00    
+Rasl2tp      WAN Miniport (L2TP)    Kernel        7/14/2009 02:54:33    
+RasPppoe     Remote Access PPPOE Dr Kernel        7/14/2009 02:54:53    
+RasSstp      WAN Miniport (SSTP)    Kernel        7/14/2009 02:54:57    
+rdbss        Redirected Buffering S File System   10/12/2017 03:13:58   
+rdpbus       Remote Desktop Device  Kernel        7/14/2009 03:02:40    
+RDPCDD       RDPCDD                 Kernel        11/20/2010 13:22:19   
+RDPDR        Terminal Server Device Kernel        11/20/2010 13:24:44   
+RDPENCDD     RDP Encoder Mirror Dri Kernel        7/14/2009 03:01:39    
+RDPREFMP     Reflector Display Driv Kernel        7/14/2009 03:01:41    
+RdpVideoMini Remote Desktop Video M Kernel        8/23/2012 17:44:32    
+RDPWD        RDP Winstation Driver  Kernel        7/17/2014 04:02:49    
+rdyboost     ReadyBoost             Kernel        11/20/2010 12:00:07   
+rspndr       Link-Layer Topology Di Kernel        7/14/2009 02:53:20    
+s3cap        s3cap                  Kernel        11/20/2010 12:14:41   
+sbp2port     SBP-2 Transport/Protoc Kernel        11/20/2010 11:38:08   
+scfilter     Smart card PnP Class F Kernel        11/20/2010 12:24:55   
+secdrv       Security Driver        Kernel        9/13/2006 16:18:32    
+Serenum      Serenum Filter Driver  Kernel        7/14/2009 02:45:27    
+Serial       Serial Port Driver     Kernel        7/14/2009 02:45:33    
+sermouse     Serial Mouse Driver    Kernel        7/14/2009 02:45:08    
+sffdisk      SFF Storage Class Driv Kernel        7/14/2009 02:45:52    
+sffp_mmc     SFF Storage Protocol D Kernel        7/14/2009 02:45:52    
+sffp_sd      SFF Storage Protocol D Kernel        11/20/2010 12:50:48   
+sfloppy      High-Capacity Floppy D Kernel        7/14/2009 02:45:52    
+sisagp       SIS AGP Bus Filter     Kernel        7/14/2009 02:25:35    
+SiSRaid2     SiSRaid2               Kernel        9/24/2008 21:19:45    
+SiSRaid4     SiSRaid4               Kernel        10/2/2008 00:52:22    
+Smb          Message-oriented TCP/I Kernel        7/14/2009 02:53:39    
+spldr        Security Processor Loa Kernel        5/11/2009 19:13:47    
+srv          Server SMB 1.xxx Drive File System   9/7/2017 17:48:57     
+srv2         Server SMB 2.xxx Drive File System   9/7/2017 17:48:50     
+srvnet       srvnet                 File System   9/7/2017 17:48:46     
+stexstor     stexstor               Kernel        2/18/2009 02:03:21    
+storflt      Disk Virtual Machine B Kernel        11/20/2010 12:14:37   
+storvsc      storvsc                Kernel        11/20/2010 12:14:37   
+swenum       Software Bus Driver    Kernel        7/14/2009 02:45:08    
+Tcpip        TCP/IP Protocol Driver Kernel        5/30/2017 07:12:09    
+TCPIP6       Microsoft IPv6 Protoco Kernel        5/30/2017 07:12:09    
+tcpipreg     TCP/IP Registry Compat Kernel        7/7/2016 17:57:43     
+TDPIPE       TDPIPE                 Kernel        11/20/2010 13:21:10   
+TDTCP        TDTCP                  Kernel        2/17/2012 07:13:21    
+tdx          NetIO Legacy TDI Suppo Kernel        7/29/2017 17:50:58    
+TermDD       Terminal Device Driver Kernel        11/20/2010 13:21:10   
+tssecsrv     Remote Desktop Service Kernel        8/14/2017 00:35:51    
+TsUsbFlt     TsUsbFlt               Kernel        10/2/2013 03:42:31    
+tunnel       Microsoft Tunnel Minip Kernel        11/20/2010 13:06:40   
+uagp35       Microsoft AGPv3.5 Filt Kernel        7/14/2009 02:25:40    
+udfs         udfs                   File System   11/20/2010 11:42:27   
+uliagpkx     Uli AGP Bus Filter     Kernel        7/14/2009 02:25:47    
+umbus        UMBus Enumerator Drive Kernel        11/20/2010 13:00:23   
+UmPass       Microsoft UMPass Drive Kernel        7/14/2009 02:51:35    
+usbccgp      Microsoft USB Generic  Kernel        10/18/2017 04:55:34   
+usbcir       eHome Infrared Receive Kernel        7/12/2013 13:07:54    
+usbehci      Microsoft USB 2.0 Enha Kernel        10/18/2017 04:55:30   
+usbhub       Microsoft USB Standard Kernel        10/18/2017 04:55:50   
+usbohci      Microsoft USB Open Hos Kernel        10/18/2017 04:55:29   
+usbprint     Microsoft USB PRINTER  Kernel        7/14/2009 03:17:06    
+USBSTOR      USB Mass Storage Drive Kernel        2/3/2016 20:59:58     
+usbuhci      Microsoft USB Universa Kernel        10/18/2017 04:55:26   
+VBoxGuest    VirtualBox Guest Drive Kernel        10/16/2017 12:55:29   
+VBoxMouse    VirtualBox Guest Mouse Kernel        10/16/2017 12:55:29   
+VBoxSF       VirtualBox Shared Fold File System   10/16/2017 12:55:29   
+VBoxVideo    VBoxVideo              Kernel        10/16/2017 12:55:38   
+vdrvroot     Microsoft Virtual Driv Kernel        7/14/2009 02:46:19    
+vga          vga                    Kernel        7/14/2009 02:25:49    
+VgaSave      VgaSave                Kernel        7/14/2009 02:25:50    
+vhdmp        vhdmp                  Kernel        11/20/2010 12:51:49   
+viaagp       VIA AGP Bus Filter     Kernel        7/14/2009 02:25:39    
+ViaC7        VIA C7 Processor Drive Kernel        7/14/2009 02:11:03    
+viaide       viaide                 Kernel        7/14/2009 02:11:20    
+vmbus        Virtual Machine Bus    Kernel        11/20/2010 12:14:58   
+VMBusHID     VMBusHID               Kernel        11/20/2010 12:14:44   
+volmgr       Volume Manager Driver  Kernel        11/20/2010 11:38:06   
+volmgrx      Dynamic Volume Manager Kernel        7/7/2017 17:47:46     
+volsnap      Storage volumes        Kernel        11/20/2010 11:38:13   
+vsmraid      vsmraid                Kernel        1/31/2009 04:13:29    
+vwifibus     Virtual WiFi Bus Drive Kernel        7/14/2009 02:52:02    
+WacomPen     Wacom Serial Pen HID D Kernel        7/14/2009 02:46:53    
+WANARP       Remote Access IP ARP D Kernel        11/20/2010 13:07:45   
+Wanarpv6     Remote Access IPv6 ARP Kernel        11/20/2010 13:07:45   
+Wd           Wd                     Kernel        7/14/2009 02:11:31    
+Wdf01000     Kernel Mode Driver Fra Kernel        6/22/2013 05:29:37    
+WfpLwf       WFP Lightweight Filter Kernel        7/14/2009 02:53:51    
+WIMMount     WIMMount               File System   7/14/2009 02:17:57    
+WmiAcpi      Microsoft Windows Mana Kernel        7/14/2009 02:19:16    
+ws2ifsl      Winsock IFS Driver     Kernel        7/14/2009 02:55:01    
+WudfPf       User Mode Driver Frame Kernel        7/26/2012 05:33:43    
